@@ -96,7 +96,7 @@ export const DATA = {
       end: "2023",
     },
     {
-      school: "Adam jee Degree College",
+      school: "Adamjee Degree College",
       href: "https://uwaterloo.ca",
       degree: "Adamjee Government Science College",
       logoUrl: "/adamjee.jpeg",
